@@ -1,0 +1,3 @@
+PySide6>=6.6.0
+pywin32>=306
+pyhwpx>=1.7.2
