@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-07-09 19:12:38",
+  "total_count": 4,
+  "exceptions": [
+    {
+      "source_file": "C:\\Users\\user\\Downloads\\math_problem_classifier_v39_fix\\math_problem_classifier\\output\\오류\\[고][2025][1-1-b][서울양천구][한가람고][공수1][연립방정식-행렬의연산][03002][00004][99029][03003][그림2-0-0-0]_경계오류_병합의심.hwp",
+      "problem_number": "16",
+      "reason": "invalid_chapter",
+      "raw_difficulty": "하",
+      "raw_chapter": "행렬의 뜻",
+      "plain_text_preview": " [정답] ⑤\r\n, 을 차례로 대입하면\r\n 이다.\r\n모든 성분의 합은 이다.\r\n  행렬 의  성분 가 일 때, 행렬 의 모든 성분의 합은? [점]\r\n\r\n① \t\t\t② \t\t\t③ \r\n④ \t\t\t⑤ \r\n[중단원] 행렬의 뜻\r\n[난이도] 하\r\n\r\n\r\n\r\n"
+    },
+    {
+      "source_file": "C:\\Users\\user\\Downloads\\math_problem_classifier_v39_fix\\math_problem_classifier\\output\\오류\\[고][2025][1-1-b][서울양천구][한가람고][공수1][연립방정식-행렬의연산][03002][00004][99029][03003][그림2-0-0-0]_경계오류_병합의심.hwp",
+      "problem_number": "19",
+      "reason": "boundary_merge_suspected",
+      "raw_difficulty": "중",
+      "raw_chapter": "행렬의 연산",
+      "plain_text_preview": " [정답] ①\r\n\r\n       \r\n따라서 이다.\r\n즉,  이다.\r\n\r\n    이므로\r\n모든 성분의 합은 이다.\r\n행렬 에 대하여 의 모든 성분의 합은? [점]\r\n\r\n① \t\t\t② \t\t\t③ \r\n④ \t\t\t⑤ \r\n[중단원] 행렬의 연산\r\n[난이도] 중\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n [정답] ② \r\n\r\n       \r\n따라서 이다.\r\n즉,  이다.\r\n\r\n    이므로\r\n모든 성분의 합은 이다.\r\n어느 학교의 교사 명과 학생 명이 아래 표와 같이 하루에 오전, 오후로 나누어 전시를 관람하려고 한다. 요금은 교사는 만원, 학생은 만원이고, 명 이상의 단체의 경우 오전에는 요금의 를, 오후에는 요금의 를 받는다. 단체 할인이 적용된 교사 명과 학생 명의  요금의 총액을 행렬의 곱으로 나타낸 것은?"
+    },
+    {
+      "source_file": "C:\\Users\\user\\Downloads\\math_problem_classifier_v39_fix\\math_problem_classifier\\output\\오류\\출처X_[고][2025][1-1-b][서울양천구][금옥여고][공수1][고차방정식-행렬의연산][03001][00004][그림0-0-0-0]_경계오류_병합의심.hwp",
+      "problem_number": "16",
+      "reason": "invalid_chapter",
+      "raw_difficulty": "하",
+      "raw_chapter": "행렬의 뜻",
+      "plain_text_preview": " [정답] ⑤\r\n, 을 차례로 대입하면\r\n 이다.\r\n모든 성분의 합은 이다.\r\n  행렬 의  성분 가 일 때, 행렬 의 모든 성분의 합은? [점]\r\n\r\n① \t\t\t② \t\t\t③ \r\n④ \t\t\t⑤ \r\n[중단원] 행렬의 뜻\r\n[난이도] 하\r\n\r\n\r\n\r\n"
+    },
+    {
+      "source_file": "C:\\Users\\user\\Downloads\\math_problem_classifier_v39_fix\\math_problem_classifier\\output\\오류\\출처X_[고][2025][1-1-b][서울양천구][금옥여고][공수1][고차방정식-행렬의연산][03001][00004][그림0-0-0-0]_경계오류_병합의심.hwp",
+      "problem_number": "19",
+      "reason": "boundary_merge_suspected",
+      "raw_difficulty": "중",
+      "raw_chapter": "행렬의 연산",
+      "plain_text_preview": " [정답] ①\r\n\r\n       \r\n따라서 이다.\r\n즉,  이다.\r\n\r\n    이므로\r\n모든 성분의 합은 이다.\r\n행렬 에 대하여 의 모든 성분의 합은? [점]\r\n\r\n① \t\t\t② \t\t\t③ \r\n④ \t\t\t⑤ \r\n[중단원] 행렬의 연산\r\n[난이도] 중\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n [정답] ② \r\n\r\n       \r\n따라서 이다.\r\n즉,  이다.\r\n\r\n    이므로\r\n모든 성분의 합은 이다.\r\n어느 학교의 교사 명과 학생 명이 아래 표와 같이 하루에 오전, 오후로 나누어 전시를 관람하려고 한다. 요금은 교사는 만원, 학생은 만원이고, 명 이상의 단체의 경우 오전에는 요금의 를, 오후에는 요금의 를 받는다. 단체 할인이 적용된 교사 명과 학생 명의  요금의 총액을 행렬의 곱으로 나타낸 것은?"
+    }
+  ]
+}
